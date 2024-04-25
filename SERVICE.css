@@ -1,0 +1,110 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:0px;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+#er {
+    color: red;
+}
+.head_txt
+{
+   text-align: center;
+   margin-top: 250px;
+   height: 400px;
+}
+
+.nav_main {
+    margin-left: 870px;
+    margin-top: -30px;
+    font-weight: bolder;
+}
+
+.chote_main {
+    margin-left: -20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.nav_main a{
+    text-decoration: none;
+    color: black;
+}
+
+#title_1 {
+    color: white;
+
+}
+
+#title {
+    color: white;
+}
+
+.main_about {
+    display: flex;
+    gap: 40px;
+    /* transform: translateY(530px); */
+    margin-top: 300px;
+    background-color: white;
+    justify-content: center;
+    height: 500px;
+}
+
+#traveler {
+  width: 300px;
+  font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.servicess
+{
+    background-color: white;
+    height: 500px;
+}
+.ser_txt1
+{
+    text-align: center;
+    color: orangered;
+    font-weight: bolder;
+}
+.main_service
+{
+    display: flex;
+    gap:100px;
+    justify-content: center;
+}
+.sub_ser1
+{
+    text-align: center;
+    box-shadow: 0px 0px 10px black;
+    width: 200px;
+    height: 300px;
+}
+
+
+.main_footer{
+    background-color: #565656;
+    color: white;
+    display: flex;
+    gap: 180px;
+    justify-content: center;
+}
+.sub_footer{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+ a{
+    text-decoration: none;
+    color: white;
+}

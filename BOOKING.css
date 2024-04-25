@@ -1,0 +1,120 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:0px;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+#er {
+    color: red;
+}
+.head_txt
+{
+   text-align: center;
+   margin-top: 250px;
+   height: 400px;
+}
+
+.nav_main {
+    margin-left: 870px;
+    margin-top: -30px;
+    font-weight: bolder;
+}
+
+.chote_main {
+    margin-left: -20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.nav_main a{
+    text-decoration: none;
+    color: black;
+}
+
+#title_1 {
+    color: white;
+
+}
+
+.payment_page
+{
+    background-color: white;
+    height: 800px;
+}
+.main_form_pay
+{
+    margin-left:33%;
+    transform: translateY(30px);
+    background-color: #bebebe;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 0px 15px black;
+}
+
+.main_form_pay form
+{
+    padding: 20px;
+}
+#nm
+{
+    width: 440px;
+    height: 30px;
+}
+.from_to input
+{
+    height: 30px;
+    width: 190px;
+}
+#em
+{
+    width: 440px;
+    height: 30px;
+}
+#ph
+{
+    width: 440px;
+    height: 30px;
+}
+#book_b
+{
+    width: 440px;
+    height: 30px;
+    background-color: orangered;
+    color: white;
+    border:1px solid orangered
+}
+
+.main_footer{
+    background-color: #565656;
+    color: white;
+    display: flex;
+    gap: 180px;
+    justify-content: center;
+}
+.sub_footer{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+ a{
+    text-decoration: none;
+    color: white;
+}
+#sign{
+    text-decoration: none;
+    color: blue;
+}
+
+#id{
+    margin-left: 700px;
+    transform: translateY(100px)
+}
+

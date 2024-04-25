@@ -1,0 +1,179 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:0px;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+#er {
+    color: red;
+}
+.head_txt
+{
+   text-align: center;
+   margin-top: 250px;
+}
+
+.nav_main {
+    margin-left: 870px;
+    margin-top: -30px;
+    font-weight: bolder;
+}
+
+.nav_main a{
+    text-decoration: none;
+    color: black;
+}
+
+.chote_main {
+    margin-left: -20px;
+    color: white;
+    font-weight: bolder;
+}
+
+#title_1 {
+    /* margin-left: 650px; */
+    /* transform: translateY(220px); */
+    color: white;
+
+}
+
+#title {
+    /* margin-left: 560px; */
+    /* transform: translateY(200px); */
+    color: white;
+}
+
+.main_about {
+    display: flex;
+    gap: 40px;
+    margin-top: 300px;
+    background-color: white;
+    justify-content: center;
+    height: 500px;
+}
+
+#traveler {
+  width: 300px;
+  font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#font {
+  margin-left: 300px;
+  font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#font_1 {
+    margin-left: 330px;
+    font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#font_2 {
+    margin-left: 370px;
+    font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#font_3 {
+    margin-left: 130px;
+    font-family: "Akaya Telivigala", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+#font_4 {
+    margin-left: 250px;
+    font-family: "Akaya Telivigala", system-ui;
+    font-weight: 400;
+    font-style: normal;      
+}
+
+.servicess
+{
+    background-color: white;
+    height: 500px;
+}
+.ser_txt1
+{
+    text-align: center;
+    color: orangered;
+    font-weight: bolder;
+}
+.main_service
+{
+    display: flex;
+    gap:100px;
+    justify-content: center;
+}
+.sub_ser1
+{
+    text-align: center;
+    box-shadow: 0px 0px 10px black;
+    width: 200px;
+    height: 300px;
+}
+
+.img_package img{
+    height: 500px;
+    width: 400px;
+}
+.main_package
+{
+    background-color: white;
+}
+.sub_package
+{
+    text-align:center;
+}
+.img_package
+{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+}
+.main_footer{
+    background-color: #565656;
+    color: white;
+    display: flex;
+    gap: 180px;
+    justify-content: center;
+}
+.sub_footer{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.img_trainer
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.pack_name
+{
+    color: white;
+    background-color: rgba(36, 36, 36, 0.585);
+    transform: translateY(-100px);
+    height: 100px;
+    text-align: center;
+}
+#name
+{
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
